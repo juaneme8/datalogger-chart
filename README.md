@@ -1,6 +1,6 @@
 <div align="center">
   
-  ***Event Charts for Fiat Datalogger***
+  ***Event Charts for Datalogger***
   
 </div>
 
@@ -25,7 +25,7 @@
 </details>
 
 # Introduction
-`datalogger-fiat` is a Next.js and TypeScript application that takes a file and using Papa Parse as CSV parser delivers a graphic of all the incoming events using amCharts.
+`datalogger-charts` is a Next.js and TypeScript application that takes a file and using Papa Parse as CSV parser delivers a graphic of all the incoming events using amCharts.
 
 <p align="right"><a href="#top">Back to top 🔼</a></p>
 
